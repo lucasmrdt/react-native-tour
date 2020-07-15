@@ -59,7 +59,7 @@ export default class Attach extends React.Component {
                         overlay: children,
                       });
                     }),
-                  250,
+                  0,
                 );
               }}
             >
